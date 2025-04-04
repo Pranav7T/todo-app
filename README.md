@@ -16,6 +16,10 @@ A modern, feature-rich todo list application built with HTML, CSS, and JavaScrip
 - 💾 Local storage for data persistence
 - 📱 Responsive design for mobile devices
 
+## Live Demo
+
+Check out the live demo of the application: [Todo App](https://todo-app-navy-zeta-99.vercel.app/)
+
 ## Getting Started
 
 1. Clone the repository:
